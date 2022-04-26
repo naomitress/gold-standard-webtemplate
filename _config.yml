@@ -134,16 +134,17 @@ description: "A Jekyll-based documentation theme for data management documentati
 # repository: modify to point to the GitHub repo shorthand name (replace 'your-documentation-repo-name')
 # github_editme_path: provide the basepath to the branch containing source files for this site (replace 'your-documentation-repo-name').  'blob/gh-pages/_docs' is standard and should remain as is
 
-url                      : "https://ioos.github.io"
+url                      : "https://naomitress.github.io"
 
 #baseurl                  : "/your-documentation-repo-name"
-baseurl                  : "/erddap-gold-standard"
+baseurl                  : "/gold-standard-webtemplate"
 
 #repository               : "ioos/your-documentation-repo-name"
-repository               : "ioos/erddap-gold-standard"
+repository               : "naomitress/gold-standard-webtemplate" 
+
 
 #github_editme_path       : "ioos/your-documentation-repo-name/blob/gh-pages/_docs"
-github_editme_path       : "ioos/erddap-gold-standard/blob/gh-pages/_docs"
+github_editme_path       : "naomitress/gold-standard-webtemplate/blob/gh-pages/_docs"
 
 
 #Setup/config for 'ioos_documentation_theme_jekyll' git submodule (do not alter):
