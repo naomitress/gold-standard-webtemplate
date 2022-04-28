@@ -2,12 +2,12 @@ output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
 ##### IOOS edit: replace this field with the documentation site name to appear on the top navigation bar next to the home button #####
-topnav_title: Getting Started with ERDDAP
+topnav_title: Gold standard web template
 
-site_title: Getting Started with ERDDAP
+site_title: Gold standard web template
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: US IOOS
+company_name: Ocean Tracking Network
 # this appears in the footer
 
 host: 127.0.0.1
@@ -36,10 +36,10 @@ exclude:
 
 
 ##### IOOS edit: replace this field with the documentation site name to be included in feedback email subject line #####
-feedback_subject_line: Getting Started With ERDDAP Feedback
+feedback_subject_line: Getting Started With webtemplate
 
 ##### IOOS edit: replace this field with the contact email to submit to via the feedback link #####
-feedback_email: data.ioos@noaa.gov
+feedback_email: otndc@dal.ca
 
 
 # feedback_disable: true
